@@ -51,7 +51,7 @@ struct ListeRow: View {
                     Text("Receveur")
                         .padding()
                     Text(x.reciver.nom)
-                        .foregroundColor(.green)
+                        .foregroundColor(.yellow)
                         .padding()
                 }
                 
